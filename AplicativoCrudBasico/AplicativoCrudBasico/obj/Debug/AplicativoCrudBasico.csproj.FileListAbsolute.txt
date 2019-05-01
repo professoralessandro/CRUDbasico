@@ -1,0 +1,10 @@
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\bin\Debug\AplicativoCrudBasico.exe.config
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\bin\Debug\AplicativoCrudBasico.exe
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\bin\Debug\AplicativoCrudBasico.pdb
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.csprojAssemblyReference.cache
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.mskTelefone.resources
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.Properties.Resources.resources
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.exe
+C:\Users\Alessandro\source\repos\WindowsFormsAppCRUDbasico\AplicativoCrudBasico\AplicativoCrudBasico\obj\Debug\AplicativoCrudBasico.pdb
